@@ -15,6 +15,24 @@
 *图 2：MELA（Multi-Scale Edge Location-Aware）模块，无参数拉普拉斯金字塔结构*
 
 ## 结果
+### 1. Quantitative results on three COD benchmark datasets
+![Quantitative results on three COD benchmark datasets.](results/table_1.png)
+*图 1：Quantitative results on three COD benchmark datasets. The best results are highlighted in red and green. The symbols
+“↑ / ↓” indicate that higher/lower values are better, respectively. Note that “Ours-R” and “Ours-S” use Res2Net-50 and Swin
+Transformer as the backbone, respectively.*
+
+### 2. Quantitative results on the COD10K of other four classes
+![Quantitative results on the COD10K of other four classes](results/table_2.png)
+*图 2：Quantitative results on the COD10K of other four classes (i.e., “Aquatic”, “Terrestrial”, “Flying”, and “Amphibian”).
+The best two results are shown in red and green.*
+
+### 3. CFAM configuration and quantitative results on CAMO and COD10K
+![CFAM configuration and quantitative results on CAMO and COD10K](results/table_3.png)
+*图 3：CFAM configuration and quantitative results on CAMO and COD10K. Best results are highlighted in red.*
+
+### 4. MELA configuration and quantitative results on CAMO and COD10K
+![MELA configuration and quantitative results on CAMO and COD10K](results/table_4.png)
+*图 4：MELA configuration and quantitative results on CAMO and COD10K. Best results are highlighted in red.*
 
 ## 结果掩码下载
 链接: https://pan.baidu.com/s/1rzk1WBFVKqmhsjeINYN04w 提取码: HDWT
