@@ -9,7 +9,7 @@ MELANet 是面向伪装目标检测的深度学习模型，通过多尺度边缘
 *图 1：MELANet 整体架构，基于 U 型结构融合多尺度边缘特征*
 
 ### 2. MELA 模块细节
-![MELA 模块图](figures/MELANet_model.png) width="400"
+![MELA 模块图](figures/MELANet_model.png)
 *图 2：MELA（Multi-Scale Edge Location-Aware）模块，无参数拉普拉斯金字塔结构*
 
 ## 结果掩码下载
