@@ -26,14 +26,6 @@ Transformer as the backbone, respectively.*
 *图 2：Quantitative results on the COD10K of other four classes (i.e., “Aquatic”, “Terrestrial”, “Flying”, and “Amphibian”).
 The best two results are shown in red and green.*
 
-### 3. CFAM configuration and quantitative results on CAMO and COD10K
-![CFAM configuration and quantitative results on CAMO and COD10K](results/table_3.jpg)
-*图 3：CFAM configuration and quantitative results on CAMO and COD10K. Best results are highlighted in red.*
-
-### 4. MELA configuration and quantitative results on CAMO and COD10K
-![MELA configuration and quantitative results on CAMO and COD10K](results/table_4.jpg)
-*图 4：MELA configuration and quantitative results on CAMO and COD10K. Best results are highlighted in red.*
-
 ## 结果掩码下载
 链接: https://pan.baidu.com/s/1rzk1WBFVKqmhsjeINYN04w 提取码: HDWT
 
