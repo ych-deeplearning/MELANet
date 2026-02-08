@@ -16,22 +16,22 @@
 
 ## 结果
 ### 1. Quantitative results on three COD benchmark datasets
-![Quantitative results on three COD benchmark datasets.](results/table_1.png)
+![Quantitative results on three COD benchmark datasets.](results/table_1.jpg)
 *图 1：Quantitative results on three COD benchmark datasets. The best results are highlighted in red and green. The symbols
 “↑ / ↓” indicate that higher/lower values are better, respectively. Note that “Ours-R” and “Ours-S” use Res2Net-50 and Swin
 Transformer as the backbone, respectively.*
 
 ### 2. Quantitative results on the COD10K of other four classes
-![Quantitative results on the COD10K of other four classes](results/table_2.png)
+![Quantitative results on the COD10K of other four classes](results/table_2.jpg)
 *图 2：Quantitative results on the COD10K of other four classes (i.e., “Aquatic”, “Terrestrial”, “Flying”, and “Amphibian”).
 The best two results are shown in red and green.*
 
 ### 3. CFAM configuration and quantitative results on CAMO and COD10K
-![CFAM configuration and quantitative results on CAMO and COD10K](results/table_3.png)
+![CFAM configuration and quantitative results on CAMO and COD10K](results/table_3.jpg)
 *图 3：CFAM configuration and quantitative results on CAMO and COD10K. Best results are highlighted in red.*
 
 ### 4. MELA configuration and quantitative results on CAMO and COD10K
-![MELA configuration and quantitative results on CAMO and COD10K](results/table_4.png)
+![MELA configuration and quantitative results on CAMO and COD10K](results/table_4.jpg)
 *图 4：MELA configuration and quantitative results on CAMO and COD10K. Best results are highlighted in red.*
 
 ## 结果掩码下载
